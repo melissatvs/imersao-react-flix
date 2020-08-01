@@ -40,3 +40,5 @@
 [Aula 3 - Formulários reutilizáveis e mais components](aula3.md)
 
 [Aula 4 - Ajax, validação e o back-end](aula4.md)
+
+[Aula 5 - Gerenciamento de vídeos com React e JavaScript](aula5.md)
