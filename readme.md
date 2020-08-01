@@ -29,6 +29,8 @@
 
 [Aula 4 - Ajax, validação e o back-end](aula4.md)
 
+[Aula 5 - Gerenciamento de vídeos com React e JavaScript](aula5.md)
+
 ## :ocean: Projeto
 
 [AluraFlix](https://github.com/imersao-alura/aluraflix)
