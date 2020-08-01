@@ -10,7 +10,7 @@
 * ### Juliana Negreiros 
   *Coordenadora dos cursos de front-end da Alura*
 
-  [![Twitter](https://img.shields.io/badge/-juunegreiros-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2&link=https://twitter.com/juunegreiros)](https://twitter.com/juunegreiros) [![Instagram](https://img.shields.io/badge/-juu_negreiros-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&link=https://www.instagram.com/juu_negreiros/)](https://www.instagram.com/juu_negreiros/) [![LinkedIn](https://img.shields.io/badge/-juliananegreiros-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/juliananegreiros/)](https://www.linkedin.com/in/juliananegreiros/)
+  [![Twitter](https://img.shields.io/badge/-juunegreiros-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2&link=https://twitter.com/juunegreiros)](https://twitter.com/juunegreiros) [![Instagram](https://img.shields.io/badge/-juu__negreiros-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&link=https://www.instagram.com/juu_negreiros/)](https://www.instagram.com/juu_negreiros/) [![LinkedIn](https://img.shields.io/badge/-juliananegreiros-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/juliananegreiros/)](https://www.linkedin.com/in/juliananegreiros/)
 
 * ### Marco Bruno 
   *Engenheiro de software na Suécia*
@@ -20,7 +20,7 @@
 * ### Paulo Silveira 
   *CEO da Alura*
 
-  [![Twitter](https://img.shields.io/badge/-paulo_caelum-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2&link=https://twitter.com/paulo_caelum)](https://twitter.com/paulo_caelum) [![Instagram](https://img.shields.io/badge/-paulo_hipster-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&link=https://www.instagram.com/paulo_hipster/)](https://www.instagram.com/paulo_hipster/) [![LinkedIn](https://img.shields.io/badge/-paulosilveira-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/paulosilveira/)](https://www.linkedin.com/in/paulosilveira/)
+  [![Twitter](https://img.shields.io/badge/-paulo__caelum-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2&link=https://twitter.com/paulo_caelum)](https://twitter.com/paulo_caelum) [![Instagram](https://img.shields.io/badge/-paulo__hipster-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F&link=https://www.instagram.com/paulo_hipster/)](https://www.instagram.com/paulo_hipster/) [![LinkedIn](https://img.shields.io/badge/-paulosilveira-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/paulosilveira/)](https://www.linkedin.com/in/paulosilveira/)
 
 
 ## :books: Aulas
