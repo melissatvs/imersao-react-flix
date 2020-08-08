@@ -1,6 +1,6 @@
 # Aula 2 - Roteamento e state
 
-[Vídeo da aula](https://drive.google.com/file/d/1xRfuyC8embSeTIzvoTmsG13eD2wisiVU/view?usp=sharing)
+[![Vídeo da aula](aula2.png)](https://drive.google.com/file/d/1xRfuyC8embSeTIzvoTmsG13eD2wisiVU/view?usp=sharing)
 
 ---
 

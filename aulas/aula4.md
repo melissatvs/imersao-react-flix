@@ -1,6 +1,6 @@
 # Aula 4 - Ajax, validação e o back-end
 
-[Vídeo da aula](https://drive.google.com/file/d/1L2CJhxnxP5VU3SLcCNg-8_NLvOLiy1TD/view?usp=sharing)
+[![Vídeo da aula](aula4.png)](https://drive.google.com/file/d/1L2CJhxnxP5VU3SLcCNg-8_NLvOLiy1TD/view?usp=sharing)
 
 ---
 

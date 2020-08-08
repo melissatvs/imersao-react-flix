@@ -1,6 +1,6 @@
 # Aula 5 - Gerenciamento de vídeos com React e JavaScript
 
-[Vídeo da aula](https://drive.google.com/file/d/1OJg5v8k9lg1t1ONNnQDjaXuNkrETKPP8/view?usp=sharing)
+[![Vídeo da aula](aula5.png)](https://drive.google.com/file/d/1OJg5v8k9lg1t1ONNnQDjaXuNkrETKPP8/view?usp=sharing)
 
 ---
 

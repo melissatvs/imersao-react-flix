@@ -25,15 +25,15 @@
 
 ## :books: Aulas
 
-[Aula 1 - React, Components e AluraFlix](aula1.md)
+[Aula 1 - React, Components e AluraFlix](./aulas/aula1.md)
 
-[Aula 2 - Roteamento e state](aula2.md)
+[Aula 2 - Roteamento e state](./aulas/aula2.md)
 
-[Aula 3 - Formulários reutilizáveis e mais components](aula3.md)
+[Aula 3 - Formulários reutilizáveis e mais components](./aulas/aula3.md)
 
-[Aula 4 - Ajax, validação e o back-end](aula4.md)
+[Aula 4 - Ajax, validação e o back-end](./aulas/aula4.md)
 
-[Aula 5 - Gerenciamento de vídeos com React e JavaScript](aula5.md)
+[Aula 5 - Gerenciamento de vídeos com React e JavaScript](./aulas/aula5.md)
 
 ## :ocean: Projeto
 

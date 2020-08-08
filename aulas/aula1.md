@@ -1,6 +1,6 @@
 # Aula 1 - React, Components e AluraFlix
 
-[Vídeo da aula](https://drive.google.com/file/d/11cqSFKMzc0vFMrEhu-jm7aubRusVN6vC/view?usp=sharing)
+[![Vídeo da aula](aula1.png)](https://drive.google.com/file/d/11cqSFKMzc0vFMrEhu-jm7aubRusVN6vC/view?usp=sharing)
 
 ---
 
