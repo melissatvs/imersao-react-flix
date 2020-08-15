@@ -1,4 +1,4 @@
-# Aula 3 - Formulários reutilizáveis e mais components
+# Aula 3 - Formulários reutilizáveis e mais componentes
 
 [![Vídeo da aula](aula3.png)](https://drive.google.com/file/d/1USDnvTKSAQnI2KdTX9L3z21oBjCaOFt_/view?usp=sharing)
 
