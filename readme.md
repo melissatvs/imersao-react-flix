@@ -29,7 +29,7 @@
 
 [Aula 2 - Roteamento e state](./aulas/aula2.md)
 
-[Aula 3 - Formulários reutilizáveis e mais components](./aulas/aula3.md)
+[Aula 3 - Formulários reutilizáveis e mais componentes](./aulas/aula3.md)
 
 [Aula 4 - Ajax, validação e o back-end](./aulas/aula4.md)
 
